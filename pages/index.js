@@ -1,5 +1,10 @@
 function Home(){
-    return <h1>Eu te amo meu amooor</h1>
+    return (
+        <div>
+            <h1>Eu te amo meu amooor :/ If elso ghost</h1>
+            
+        </div>
+    )
 }
 
 export default Home;
