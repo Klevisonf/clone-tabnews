@@ -1,7 +1,10 @@
 function Home(){
     return (
         <div>
-            <h1>Eu te amo meu amooor :/ If elso ghost</h1>
+            <div>
+                <h1>Eu te amo meu amooor </h1>
+                <h1>Eu te amo meu amooor </h1>
+            </div>
             
         </div>
     )
